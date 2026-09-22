@@ -4,3 +4,6 @@ lib64
 include
 .venv
 pyvenv.cfg
+.godot/
+/android/
+logs
