@@ -38,7 +38,3 @@ flippers:
     activation_switch: s_right_flipper
     enable_events: machine_reset_phase_3
 
-displays:
-  window:
-    width: 800
-    height: 600

@@ -9,3 +9,12 @@ git clone https://github.com/gusgus84/LemmonPinPy.git
 python -m venv .venv
 bin/pip install mpf --pre
 ```
+
+Raspberry Pi Setup:
+```bash
+sudo apt update
+sudo apt install 
+
+sudo pip install --break-system-packages adafruit-blinka adafruit-circuitpython-neopixel
+pip install mpf --pre
+```
