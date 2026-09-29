@@ -13,8 +13,8 @@ bin/pip install mpf --pre
 Raspberry Pi Setup:
 ```bash
 sudo apt update
-sudo apt install 
+sudo apt install ???
 
-sudo pip install --break-system-packages adafruit-blinka adafruit-circuitpython-neopixel
+pip install ??
 pip install mpf --pre
 ```
